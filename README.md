@@ -6,16 +6,16 @@
 
 ## Profil
 <ul>
-  <li>Nama: {Bangbang Ramadhan}</li>
-  <li>NIM: {23552011177}</li>
-  <li>Studi Kasus: {Kasir Restoran}</li>
+  <li>Nama: Bangbang Ramadhan</li>
+  <li>NIM: 23552011177</li>
+  <li>Studi Kasus: Kasir Restoran</li>
 </ul>
 
 ## Judul Studi Kasus
 <p>Kasir Restoran.</p>
 
 ## Penjelasan Studi Kasus
-<p>ebuah restoran ingin mengelola proses pemesanan dan pembayaran makanan/minuman secara terkomputerisasi. Seorang kasir akan:
+<p>Sebuah restoran ingin mengelola proses pemesanan dan pembayaran makanan/minuman secara terkomputerisasi. Seorang kasir akan:
 - Melihat daftar menu (makanan & minuman)
 - Mencatat pesanan pelanggan (berapa meja, apa saja yang dipesan, berapa jumlahnya)
 - Sistem akan menghitung total yang harus dibayarkan
